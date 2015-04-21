@@ -7,6 +7,7 @@
 Result addNewProduct();
 Result buyAllProductFromCart();
 Result buyOneElementById();
+Result addProductToCart();
 Result changeAmount();
 Result changeProduct();
 Result createAdmin();
@@ -23,4 +24,4 @@ Result showProducts();
 Result showPurchaseHistory();
 Result showStats();
 Result showUsers();
-Result addProductToCart();
+
