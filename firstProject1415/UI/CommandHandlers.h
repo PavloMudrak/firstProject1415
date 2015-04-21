@@ -22,4 +22,4 @@ Result showCart();
 Result showProducts();
 Result showPurchaseHistory();
 Result showStats();
-Result showUsers();
+Result showUsers(); 
